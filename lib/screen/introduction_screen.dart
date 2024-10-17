@@ -138,5 +138,3 @@ class IntroScreen extends StatelessWidget {
         MaterialPageRoute(builder: (context) => const HomeScreen()));
   }
 }
-
-// เก็บข้อมูล Key-value ลงในเครื่องแบบถาวรด้วย Shared Preferences
