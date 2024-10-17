@@ -9,7 +9,7 @@ class IntroScreen extends StatelessWidget {
   final List<PageViewModel> pages = [
     PageViewModel(
       title: 'Connect With Everyone',
-      body: 'Here you can have whatever description you would like to have, you can type it all in here',
+      body: 'I do not know what to write in this page but Welcome to the first page of introduction screen',
       // title: 'First Page',
       // body: 'Description',
       footer: SizedBox(
@@ -38,7 +38,7 @@ class IntroScreen extends StatelessWidget {
     ),
     PageViewModel(
       title: 'Have Access Everywhere!',
-      body: 'Here you can have whatever description you would like to have, you can type it all in here',
+      body: 'This is the second page of the introduction screen thank for visiting this website',
       footer: SizedBox(
         height: 45,
         width: 150,
@@ -65,7 +65,7 @@ class IntroScreen extends StatelessWidget {
     ),
     PageViewModel(
       title: 'Here We Start!',
-      body: 'Here you can have whatever description you would like to have, you can type it all in here',
+      body: 'This is the last page of the introduction screen you are nearly there.',
       footer: SizedBox(
         height: 45,
         width: 150,
